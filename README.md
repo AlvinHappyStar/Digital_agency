@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/83485475/194510015-d0cd8796-a470-4085-baf7-c0c7eaf72d7f.png)
-
 # Digital Agency
 
 A Digital Marketing single page website. This was made when I was learning react+taillwind.
